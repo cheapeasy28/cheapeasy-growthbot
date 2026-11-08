@@ -1,0 +1,68 @@
+{
+  "flips": {
+    "title": "The First 10 Flips",
+    "label": "UK RESELLING PLAYBOOK",
+    "kind": "UK resale starter playbook",
+    "disclaimer": "Income is not guaranteed. Research each deal and account for all costs.",
+    "colour": "gold",
+    "url": "",
+    "tips": [
+      {"hook":"A resale price isn't your profit", "tip":"Calculate what remains after purchase cost, selling fees, postage, packaging and collection costs before you buy."},
+      {"hook":"Check SOLD prices, not asking prices", "tip":"An active listing only tells you what a seller hopes to get. Look for credible completed sales before committing cash."},
+      {"hook":"Set your maximum buy price first", "tip":"Work backwards from a conservative resale value and your target profit. Walk away if the purchase price breaks the maths."},
+      {"hook":"Don't trap all your cash in stock", "tip":"Ten unsold items can tie up more money than you expect. Start small and measure how quickly each item sells."},
+      {"hook":"A missing part can erase your margin", "tip":"Check model numbers, cables, accessories and condition before buying second-hand products."},
+      {"hook":"Photos should show the faults too", "tip":"Clear photos of condition and defects reduce misunderstandings and help buyers decide confidently."},
+      {"hook":"The cheapest listing isn't the best flip", "tip":"A low purchase price means little without buyer demand, resale evidence and a workable selling margin."},
+      {"hook":"Factor in your collection costs", "tip":"Fuel, travel time, parking and courier costs all change the true profit of a resale deal."},
+      {"hook":"Do the postage maths before listing", "tip":"Measure and weigh the item before setting a delivery price. Bulky products can surprise you."},
+      {"hook":"Keep proof of purchase", "tip":"Track each item's purchase price, date, condition and selling costs, so you know what actually worked."},
+      {"hook":"Give slow stock a review date", "tip":"Set a point to revisit the price or selling platform rather than leaving unsold items forgotten in storage."},
+      {"hook":"Start with ten researched deals", "tip":"A repeatable sourcing and pricing process is more useful than buying random bargains and hoping they sell."}
+    ]
+  },
+  "adhd": {
+    "title": "The ADHD Money Reset",
+    "label": "MONEY & LIFE ADMIN TOOLKIT",
+    "kind": "ADHD-friendly UK money organiser",
+    "disclaimer": "Organisation resource, not financial or medical advice.",
+    "colour": "blue",
+    "url": "",
+    "tips": [
+      {"hook":"Start with the next three bills", "tip":"You don't have to reorganise your entire financial life today. Find the next three bills and their due dates first."},
+      {"hook":"Try a ten-minute money reset", "tip":"Check what is available, note incoming money, find the next bills, flag anything urgent and take one action."},
+      {"hook":"Don't rely on remembering", "tip":"Put payment reminders somewhere you will actually see them rather than relying on memory alone."},
+      {"hook":"One small action still counts", "tip":"When the admin feels too big, choose one next step: set a reminder, find a letter or contact a provider."},
+      {"hook":"Make overdue bills visible", "tip":"Identify urgent or priority bills before spending time perfecting budget categories and spreadsheets."},
+      {"hook":"Subscriptions deserve a check", "tip":"Write down your recurring payments and review whether you still use them. Look at dates and amounts together."},
+      {"hook":"Use the same weekly reset", "tip":"A simple routine you can restart is often more useful than a complicated budget you abandon after one week."},
+      {"hook":"Give every bill a due date", "tip":"A named bill with a due date and a next action is easier to handle than an unnamed worry in your head."},
+      {"hook":"Track variable income cautiously", "tip":"If your income changes, avoid planning essential bills around the best-case amount."},
+      {"hook":"Write the difficult message", "tip":"A short script can make it easier to contact a provider about a missed payment instead of avoiding the issue."},
+      {"hook":"A printable tracker can help", "tip":"Keep one visible page for bills, subscriptions and deadlines rather than scattering the details across apps."},
+      {"hook":"Restarting is part of the plan", "tip":"An organisation system should still work after you've missed a week. Start again with the next actionable step."}
+    ]
+  },
+  "hospital": {
+    "title": "Hospital to Home",
+    "label": "ENGLAND FAMILY ORGANISER",
+    "kind": "Hospital discharge family planning toolkit for adults in England",
+    "disclaimer": "Independent organisation aid, not NHS-affiliated or medical advice. Follow the treating team's instructions.",
+    "colour": "teal",
+    "url": "",
+    "tips": [
+      {"hook":"Who's coordinating discharge?", "tip":"Ask the hospital team who is coordinating the discharge plan and where your family can direct outstanding questions."},
+      {"hook":"Write down the first-day plan", "tip":"Record who is collecting the person, how they will get inside, and which arrangements still need confirming."},
+      {"hook":"Medication questions belong on paper", "tip":"Ask the clinical team about medicine changes, written instructions and whom to contact if there are questions later."},
+      {"hook":"Keep follow-up dates in one place", "tip":"Record the appointment, location, contact details and who will arrange transport or accompany the patient."},
+      {"hook":"Don't forget equipment arrangements", "tip":"Check with the discharge team whether any recommended equipment or home support is needed and confirmed."},
+      {"hook":"A one-page handover helps", "tip":"Keep key contacts, arrangements and unresolved questions together so family members work from the same information."},
+      {"hook":"Plan the first seven days", "tip":"Create a simple rota for practical tasks such as shopping, transport and phone calls, respecting the patient's wishes."},
+      {"hook":"Ask who to call with questions", "tip":"Before leaving, make sure the patient knows which clinical service to contact about concerns after discharge."},
+      {"hook":"Don't assume transport is sorted", "tip":"Confirm how the patient is getting home and any practical access concerns before the planned discharge time."},
+      {"hook":"Family members need clear roles", "tip":"Write down who is handling appointments, essentials and follow-up calls to reduce duplicated or forgotten tasks."},
+      {"hook":"Keep personal details private", "tip":"Only share the discharge organiser with the patient's permission and store sensitive information carefully."},
+      {"hook":"Bring the unanswered questions", "tip":"A concise list of questions helps you use discharge conversations to clarify the practical plan rather than guess."}
+    ]
+  }
+}
