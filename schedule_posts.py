@@ -169,10 +169,16 @@ def main():
             continue
         # All channels get all 36 reviewed topics, with a different starting point.
         key, tip_idx = topic_list[(n + PLATFORM_OFFSETS[service]) % len(topic_list)]
-        board_id=None
-        if service=='pinterest':
-            board_id=get_pinterest_board(token,ch['id']) if live else 'PREVIEW_BOARD'
-        post=create_input(ch,products[key],key,tip_idx,repo,branch,board_id)
+        # Isolate channel-specific configuration failures.
+        # A missing Pinterest board must not stop Instagram and Facebook.
+        try:
+            board_id = None
+            if service == 'pinterest':
+                board_id = get_pinterest_board(token, ch['id']) if live else 'PREVIEW_BOARD'
+            post = create_input(ch, products[key], key, tip_idx, repo, branch, board_id)
+        except Exception as exc:
+            print(f'SKIPPED {service} ({ch.get("name", ch["id"])}): {exc}', file=sys.stderr)
+            continue
         print(f'{service} / {key} #{tip_idx+1}: {post["text"][:105]!r}')
         print('  Image:',post['assets'][0]['image']['url'])
         if not live:
