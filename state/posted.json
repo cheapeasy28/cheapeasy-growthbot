@@ -2,7 +2,7 @@
   "channels": {
     "6af10c5062b70b94b0c706a4": {},
     "6af0f9bb62b70b94b0c59821": {
-      "next_index": 3,
+      "next_index": 4,
       "history": [
         {
           "post_id": "6af10edb229bf05dafe2167a",
@@ -24,11 +24,18 @@
           "tip": 8,
           "queued_at": "2026-11-10T09:24:29.404010+00:00",
           "due_at": "2026-11-11T09:40:00.000Z"
+        },
+        {
+          "post_id": "6af4352228ad1c1bf4fc7a43",
+          "key": "flips",
+          "tip": 9,
+          "queued_at": "2026-11-11T09:28:03.017627+00:00",
+          "due_at": "2026-11-12T09:29:00.000Z"
         }
       ]
     },
     "6af0f90562b70b94b0c592ee": {
-      "next_index": 3,
+      "next_index": 4,
       "history": [
         {
           "post_id": "6af10edcd6bbae6fa11cc32c",
@@ -50,6 +57,13 @@
           "tip": 4,
           "queued_at": "2026-11-10T09:24:29.702160+00:00",
           "due_at": "2026-11-11T18:15:00.000Z"
+        },
+        {
+          "post_id": "6af435235add622f644669e9",
+          "key": "flips",
+          "tip": 5,
+          "queued_at": "2026-11-11T09:28:03.403277+00:00",
+          "due_at": "2026-11-12T10:59:00.000Z"
         }
       ]
     }
